@@ -11,6 +11,12 @@ Android Studio is the official integrated development environment for Google's A
 
 We will work you through on how to install Android Studio.
 
+[You can visit this link to start](https://developer.android.com/studio/ "Android Studio").
+
+
 Git is a version-control system for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source-code management in software development, but it can be used to keep track of changes in any set of files.
 
-We will work you through on how to install, configure and start using Git Version Control System
+We will work you through on how to install, configure and start using Git Version Control System.
+
+[You can visit this link to start](https://git-scm.com/ "Git version control").
+
