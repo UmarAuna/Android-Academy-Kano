@@ -5,7 +5,7 @@ Week 1 Task
 
 Installation of Android Studio and basic Introduction of Git version control.
 
-##### Details
+### Details
 
 Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development.
 
