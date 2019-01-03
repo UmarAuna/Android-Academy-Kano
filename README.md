@@ -7,8 +7,8 @@ The duration of the course is suppopse to last for 1 month that's from 5th Janua
 <br/>
 
 The course is divided into two classes:<br/>
-1. Beginners Class<br/>
-2. Intermediate Class
+1. Beginners Class will be every Saturday from 4pm to 6pm
+2. Intermediate Class will be every Sunday from 4pm to 6pm
 
 ## Task
 Task will be given to everyone to go and complete.
