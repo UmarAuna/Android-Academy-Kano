@@ -8,7 +8,7 @@ The duration of the course is suppopse to last for 1 month that's from 5th Janua
 
 The course is divided into two classes:<br/>
 1. Beginners Class<br/>
-2. Intermediate Class</>
+2. Intermediate Class
 
 ## Task
 Task will be given to everyone to go and complete.
