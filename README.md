@@ -34,6 +34,3 @@ By the end of the session, participants should understand that the development p
 
 1. Work with others to improve their own and other skills. 
 2. Balance the advantages of relying on others with taking responsibility for their own work.
-
-
-
